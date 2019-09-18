@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConvertPrice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConvertPrice_jar</output-path>
+    <root id="archive" name="ConvertPrice.jar">
+      <element id="module-output" name="ConvertPrice" />
+      <element id="extracted-dir" path="C:/ExcelConvert/.idea/jxl-2.6.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/ExcelConvert/.idea/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/ExcelConvert/.idea/poi-3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/ExcelConvert/.idea/poi-ooxml-3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/ExcelConvert/.idea/poi-ooxml-schemas-3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/ExcelConvert/.idea/xmlbeans-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
